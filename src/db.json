@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "name": "Ha Phong",
+      "age": "21",
+      "id": 1
+    },
+    {
+      "name": "Kien",
+      "age": "23",
+      "id": 2
+    },
+    {
+      "name": "Thuc",
+      "age": "21",
+      "id": 3
+    },
+    {
+      "name": "Hải",
+      "age": "21",
+      "id": 4
+    },
+    {
+      "name": "Lâm",
+      "age": "18",
+      "id": 5
+    }
+  ]
+}
